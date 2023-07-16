@@ -1,0 +1,6 @@
+aiohttp
+arq
+fastapi
+google-cloud-storage
+streaming-form-data
+uvicorn
